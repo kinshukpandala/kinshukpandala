@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinshukpandala
+- 👋 Hi, I’m Kinshuk
 - 👀 I’m interested in exploring technology and solving real-world problems.
 - 🌱 I’m currently working on a RAG based model for my Campus Navi
 - 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.
