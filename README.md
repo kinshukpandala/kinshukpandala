@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kinshuk
 - 👀 I’m interested in exploring technology and solving real-world problems.
-- 🌱 I’m currently working on a RAG based model for my Campus Navi and an event booking platform called Festr
+- 🌱 I’m currently working on Terminal based game like terminal.shop
 - 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.
 - 📫 Reach me out @ kparkerlabrat@gmail.com
 - ⚡ Fun fact: The microprocessor inside a smartphone is millions of times more powerful than the computers used to send astronauts to the Moon in 1969.
