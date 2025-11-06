@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kinshuk
 - 👀 I’m interested in exploring technology and solving real-world problems.
 - 🌱 I’m currently developing a VIT Bhopal Exclusive GPA Calculator !!!
+- 'x' fIGURING oUT lIFE
 <!---
 - 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.
 - 📫 Reach me out @ kparkerlabrat@gmail.com for freelancing projects only or hosting a project
