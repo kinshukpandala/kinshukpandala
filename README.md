@@ -1,7 +1,27 @@
-- 👋 Hi, I’m Kinshuk
-- 👀 I’m interested in exploring technology and solving real-world problems.
-- 🌱 I’m currently developing a VIT Bhopal Exclusive GPA Calculator !!!
-- 'x' preping for GATE
+# Hola, I’m Kinshuk!
+> here's my entire life in one file
+
+## I'm aiming for perfection in
+1. VLSI Verification Design
+2. Building a self-hosted VPN and NAS server
+3. building IoT and Automation Solutiosn
+
+## My progress so far
++ ```MERN STACK``` -> ```100%```  
++ ```AWS + GCP``` -> ```80%```
++ ```GEN AI``` -> ```50%```
+
+## Some side projects
++ [QUENCH] - self automated Water Vending Machine
+> built a real-time dashboard with a delay of 1ms\
+> 30+ Transactions a day
+
+## Currently
++ Preparing for GATE Examination !! 
++ Learning System Verilog on the side
+
+## Contact me
+[kinshuk2005@gmail.com](mailto:kinshuk2005@gmail.com)
 <!---
 - 💞️ I’m eager to collaborate on innovative tech projects and open-source contributions.
 - 📫 Reach me out @ kparkerlabrat@gmail.com for freelancing projects only or hosting a project
