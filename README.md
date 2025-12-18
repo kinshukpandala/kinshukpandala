@@ -4,7 +4,7 @@
 ## I'm aiming for perfection in
 1. VLSI Verification Design
 2. Building a self-hosted VPN and NAS server
-3. building IoT and Automation Solutiosn
+3. building IoT and Automation solutions
 
 ## My progress so far
 + ```SYSTEM DESIGN``` -> ```65%```
