@@ -7,9 +7,10 @@
 3. building IoT and Automation Solutiosn
 
 ## My progress so far
-+ ```MERN STACK``` -> ```100%```  
-+ ```AWS + GCP``` -> ```80%```
-+ ```GEN AI``` -> ```50%```
++ ```SYSTEM DESIGN``` -> ```65%```
++ ```EMBEDDED SYSTEMS``` -> ```45%```  
++ ```IoT + IPs``` -> ```40%```
++ ```VERILOG``` -> ```20%```
 
 ## Some side projects
 + [QUENCH] - self automated Water Vending Machine
