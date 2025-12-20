@@ -18,7 +18,8 @@
 > 30+ Transactions a day
 
 ## Currently
-+ Preparing for GATE Examination !! 
++ Preparing for GATE Examination !!
++ trying to build a server from few pieces of junk 
 + Learning System Verilog on the side
 
 ## Contact me
