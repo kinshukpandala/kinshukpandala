@@ -1,4 +1,4 @@
-# Hola, I’m Kinshuk!
+# Hey, I’m Kinshuk!
 > here's my entire life in one file
 
 ## I'm aiming for perfection in
