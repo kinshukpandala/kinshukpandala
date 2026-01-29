@@ -10,17 +10,20 @@
 + ```SYSTEM DESIGN``` -> ```65%```
 + ```EMBEDDED SYSTEMS``` -> ```45%```  
 + ```IoT + IPs``` -> ```40%```
-+ ```VERILOG``` -> ```20%```
 
 ## Some side projects
++ [scano] - QR Ticketing and Automation System
+> building a small scale QR ticketing system by fully automating the passes
+> currently in a trial phase 
+
 + [QUENCH] - self automated Water Vending Machine
 > built a real-time dashboard with a delay of 1ms\
 > 30+ Transactions a day
 
 ## Currently
-+ Preparing for GATE Examination !!
++ Working on a Ticketing System
 + trying to build a server from few pieces of junk 
-+ Learning System Verilog on the side
++ Learning Embedded C on the side
 
 ## Contact me
 [kinshuk2005@gmail.com](mailto:kinshuk2005@gmail.com)
