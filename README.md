@@ -13,7 +13,7 @@
 
 ## Some side projects
 + [scano] - QR Ticketing and Automation System
-> building a small scale QR ticketing system by fully automating the passes
+> fast QR checkin & validation • automated mailing service • formless registrations
 > currently in a trial phase 
 
 + [QUENCH] - self automated Water Vending Machine
