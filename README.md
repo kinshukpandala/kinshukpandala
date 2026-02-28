@@ -2,14 +2,14 @@
 > here's my entire life in one file
 
 ## I'm aiming for perfection in
-1. VLSI Verification Design
-2. Building a self-hosted VPN and NAS server
-3. building IoT and Automation solutions
+1. Embedded Systems and System Design Engineering 
+2. Building IoT and Automation solutions
+3. Understanding how  self-hosted VPN, NAS server and various communication protocols work.
 
 ## My progress so far
-+ ```SYSTEM DESIGN``` -> ```65%```
-+ ```EMBEDDED SYSTEMS``` -> ```45%```  
-+ ```IoT + IPs``` -> ```40%```
++ ```SYSTEM DESIGN``` -> ```75%```
++ ```EMBEDDED SYSTEMS``` -> ```52%```  
++ ```IoT + IPs``` -> ```46%```
 
 ## Some side projects
 + [scano] - QR Ticketing and Automation System
@@ -21,7 +21,7 @@
 > 30+ Transactions a day
 
 ## Currently
-+ Working on a Ticketing System
++ Working on a Ticketing System which is fully automatted 
 + trying to build a server from few pieces of junk 
 + Learning Embedded C on the side
 
