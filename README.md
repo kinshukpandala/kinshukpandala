@@ -8,8 +8,8 @@
 
 ## My progress so far
 + ```SYSTEM DESIGN``` -> ```75%```
-+ ```EMBEDDED SYSTEMS``` -> ```52%```  
-+ ```IoT + IPs``` -> ```46%```
++ ```EMBEDDED SYSTEMS``` -> ```55%```  
++ ```IoT + IPs``` -> ```48%```
 
 ## Some side projects
 + [scano] - QR Ticketing and Automation System
