@@ -12,10 +12,6 @@
 + ```IoT + IPs``` -> ```48%```
 
 ## Some side projects
-+ [scano] - QR Ticketing and Automation System
-> fast QR checkin & validation • automated mailing service • formless registrations\
-> currently in a development phase 
-
 + [QUENCH] - self automated Water Vending Machine
 > built a real-time dashboard with a delay of 1ms\
 > 30+ Transactions a day
