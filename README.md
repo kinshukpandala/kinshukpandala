@@ -1,6 +1,6 @@
 # Hey, I’m Kinshuk!
-> here's my entire life in one file
-> Currently looking for internship so actively learning and scouting than developing
+> + here's my entire life in one file
+> + Currently looking for internship so actively learning and scouting than developing
 
 ## I'm aiming for perfection in
 1. Embedded Systems and System Design Engineering 
