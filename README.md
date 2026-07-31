@@ -18,7 +18,7 @@
 > 30+ Transactions a day
 
 ## Currently
-+ Interning at [Epicure Robotics](https://epicurerobotics.com/) 
++ Interning at [epicure robotics](https://epicurerobotics.com/) 
 + Learning C and building a personal server on the side.
 
 ## Contact me
