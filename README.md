@@ -18,9 +18,8 @@
 > 30+ Transactions a day
 
 ## Currently
-+ Working on a Ticketing System which is fully automatted 
-+ trying to build a server from few pieces of junk 
-+ Learning Embedded C on the side
++ Interning at [Epicure Robotics](https://epicurerobotics.com/) 
++ Learning C and building a personal server on the side.
 
 ## Contact me
 [kinshuk2005@gmail.com](mailto:kinshuk2005@gmail.com)
