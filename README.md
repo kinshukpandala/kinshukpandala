@@ -7,11 +7,6 @@
 2. Building IoT and Automation solutions
 3. Understanding how  self-hosted VPN, NAS server and various communication protocols work.
 
-## My progress so far
-+ ```SYSTEM DESIGN``` -> ```58%```
-+ ```EMBEDDED SYSTEMS``` -> ```42%```  
-+ ```IoT + IPs``` -> ```37%```
-
 ## Some side projects
 + [QUENCH] - self automated Water Vending Machine
 > built a real-time dashboard with a delay of 1ms\
