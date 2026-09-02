@@ -5,7 +5,7 @@
 ## I'm aiming for perfection in
 1. Embedded Systems and System Design Engineering 
 2. Building IoT and Automation solutions
-3. Understanding how  self-hosted VPN, NAS server and various communication protocols work.
+3. Understanding how  self-hosted VPN, NAS server and various other comms protocol work.
 
 
 ## Currently
